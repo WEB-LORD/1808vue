@@ -20,8 +20,9 @@
 2. 在components里面注册
 3. 用标签的形式使用 
 ### 四） 路由激活样式(掌握exact的使用) 
-router-link-exact-active router-link-active
-router- link   exact 属性 确切严格的匹配  
+> router-link-exact-active router-link-active
+
+> router- link   exact 属性 确切严格的匹配  
 ### 五）es6的module  import export（掌握） 
 - import 导入
 - export 表示导出  export 导出的是一个接口,不能是具体值 
